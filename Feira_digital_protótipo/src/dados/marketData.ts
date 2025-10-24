@@ -1,0 +1,8 @@
+export const markets = [
+  { id: 1, name: "Feira de Produtores do Centro", category: "Food", distance: "0.8 km", image: "https://www.medianeira.pr.gov.br/imagens/noticias/thumbs/59865.jpg", address: "Avenida Brasília", hours: "Dom 14h-20h", rating: 4.8, vendors: 45 },
+  { id: 2, name: "Feira de Artesanato", category: "Crafts", distance: "1.9 km", image: "https://www.camarapoa.rs.gov.br/banco_de_imagens/imagens/30712/grande/49461bb2737955.75436342.jpg?1510231318", address: "Av. dos Carvalhos, 456", hours: "Dom 10h-17h", rating: 4.9, vendors: 32 },
+  { id: 3, name: "Mercado de Arte Beira-Rio", category: "Art", distance: "1.3 km", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760637989319_4295035f.webp", address: "Rua do Rio, 789", hours: "Sáb-Dom 9h-16h", rating: 4.7, vendors: 28 },
+  { id: 4, name: "Mercado Orgânico do Vale", category: "Food", distance: "3.4 km", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760637991136_7d5d9194.webp", address: "Av. do Vale, 321", hours: "Qua-Sáb 7h-13h", rating: 4.6, vendors: 38 },
+  { id: 5, name: "Bazar Artesanal Tradicional", category: "Crafts", distance: "2.4 km", image: "https://cdnpm.dhost.cloud/imagens/26-01-23-Mercado-do-Artesanato-Levada-SEMTABES-Fotos-Jonathan-Lins-21_2023-05-09-132646_vdwq.jpg", address: "Rua da Tradição, 654", hours: "Sex-Dom 10h-18h", rating: 4.8, vendors: 41 },
+  { id: 6, name: "Mercado da Galeria", category: "Art", distance: "1.4 km", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760637994676_4191211f.webp", address: "Rua da Galeria, 987", hours: "Sáb 11h-19h", rating: 4.9, vendors: 25 }
+];

@@ -1,0 +1,14 @@
+export const products = [
+  { id: 1, name: "Tigela de Cerâmica Artesanal", price: 45, category: "Crafts", producer: "Sofia Carvalho", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760637995387_d3885a5f.webp", market: "Feira de Artesanato" },
+  { id: 2, name: "Vaso de Terracota Artesanal", price: 38, category: "Crafts", producer: "Maria Rodrigues", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760637997388_52d5509c.webp", market: "Bazar Artesanal Tradicional" },
+  { id: 3, name: "Conjunto de Cerâmica Rústica", price: 65, category: "Crafts", producer: "João Pedro Silva", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760637999213_12ffdc52.webp", market: "Mercado da Galeria" },
+  { id: 4, name: "Prato de Servir Esmaltado", price: 52, category: "Crafts", producer: "Emília Santos", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760638000938_383ebb9f.webp", market: "Feira de Artesanato" },
+  { id: 5, name: "Mel Orgânico de Flores Silvestres", price: 18, category: "Food", producer: "Fazenda Bee Haven", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760638001680_906d4be2.webp", market: "Feira de Produtores do Centro" },
+  { id: 6, name: "Mel Puro de Trevo", price: 22, category: "Food", producer: "Golden Hive Co", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760638003401_dfaad283.webp", market: "Mercado Orgânico do Vale" },
+  { id: 7, name: "Mel com Infusão de Lavanda", price: 25, category: "Food", producer: "Campos Púrpura", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760638005112_3e14fc98.webp", market: "Feira de Produtores do Centro" },
+  { id: 8, name: "Pote de Mel de Acácia", price: 20, category: "Food", producer: "Néctar da Natureza", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760638006984_77367576.webp", market: "Mercado Orgânico do Vale" },
+  { id: 9, name: "Cesta Tecida à Mão", price: 42, category: "Crafts", producer: "Willow Weaves", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760638007701_0064bfa3.webp", market: "Bazar Artesanal Tradicional" },
+  { id: 10, name: "Bolsa de Fibra Natural", price: 35, category: "Crafts", producer: "Eco Crafts", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760638009642_dc9c589a.webp", market: "Feira de Artesanato" },
+  { id: 11, name: "Cesta Organizadora Trançada", price: 48, category: "Crafts", producer: "Basket Artistry", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760638011603_6751c334.webp", market: "Bazar Artesanal Tradicional" },
+  { id: 12, name: "Sacola de Palha Marinha", price: 30, category: "Crafts", producer: "Coastal Weaving", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760638013725_3ae061f4.webp", market: "Mercado da Galeria" }
+];
