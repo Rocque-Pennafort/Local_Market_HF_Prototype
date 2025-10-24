@@ -1,0 +1,14 @@
+export const products = [
+  { id: 1, name: "Handcrafted Ceramic Bowl", price: 45, category: "Crafts", producer: "Sarah Chen", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760637995387_d3885a5f.webp", market: "Artisan Craft Fair" },
+  { id: 2, name: "Artisan Terracotta Vase", price: 38, category: "Crafts", producer: "Maria Rodriguez", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760637997388_52d5509c.webp", market: "Heritage Handmade Bazaar" },
+  { id: 3, name: "Rustic Pottery Set", price: 65, category: "Crafts", producer: "James Wilson", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760637999213_12ffdc52.webp", market: "Gallery Walk Market" },
+  { id: 4, name: "Glazed Serving Dish", price: 52, category: "Crafts", producer: "Emma Thompson", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760638000938_383ebb9f.webp", market: "Artisan Craft Fair" },
+  { id: 5, name: "Organic Wildflower Honey", price: 18, category: "Food", producer: "Bee Haven Farm", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760638001680_906d4be2.webp", market: "Downtown Farmers Market" },
+  { id: 6, name: "Raw Clover Honey", price: 22, category: "Food", producer: "Golden Hive Co", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760638003401_dfaad283.webp", market: "Organic Valley Market" },
+  { id: 7, name: "Lavender Infused Honey", price: 25, category: "Food", producer: "Purple Fields", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760638005112_3e14fc98.webp", market: "Downtown Farmers Market" },
+  { id: 8, name: "Acacia Honey Jar", price: 20, category: "Food", producer: "Nature's Nectar", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760638006984_77367576.webp", market: "Organic Valley Market" },
+  { id: 9, name: "Handwoven Basket", price: 42, category: "Crafts", producer: "Willow Weaves", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760638007701_0064bfa3.webp", market: "Heritage Handmade Bazaar" },
+  { id: 10, name: "Natural Fiber Tote", price: 35, category: "Crafts", producer: "Eco Crafts", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760638009642_dc9c589a.webp", market: "Artisan Craft Fair" },
+  { id: 11, name: "Woven Storage Basket", price: 48, category: "Crafts", producer: "Basket Artistry", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760638011603_6751c334.webp", market: "Heritage Handmade Bazaar" },
+  { id: 12, name: "Seagrass Market Bag", price: 30, category: "Crafts", producer: "Coastal Weaving", image: "https://d64gsuwffb70l.cloudfront.net/68f133e78efc59dbe222f33f_1760638013725_3ae061f4.webp", market: "Gallery Walk Market" }
+];
